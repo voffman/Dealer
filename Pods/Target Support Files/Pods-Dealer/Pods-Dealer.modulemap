@@ -1,0 +1,6 @@
+framework module Pods_Dealer {
+  umbrella header "Pods-Dealer-umbrella.h"
+
+  export *
+  module * { export * }
+}
